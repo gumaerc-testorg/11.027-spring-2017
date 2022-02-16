@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ced2de67-3fa5-8a60-9467-f835ed5e1cf9
 title: Disaster Mitigation Plan Memo
 uid: b9979c3c-115a-256e-3b8c-7f1c7ccfae0f

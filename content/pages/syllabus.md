@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 311391a7-8049-07d6-ad9a-049dedb98bf6
 ---
@@ -135,4 +137,4 @@ Final Report
 
 {{< tableclose >}}
 
-Final grades are based on a weighted average for the term. Grade cutoff points are as follows: A = 93–100% B+ = 87–89% C+ = 77–79% D+ = 67–69% A- = 90–92% B = 83–86% C = 73–76% D = 63–66% B- = 80–82% C- = 70–72% D- = 60–62% F = <60
+Final grades are based on a weighted average for the term. Grade cutoff points are as follows: A = 93–100% B+ = 87–89% C+ = 77–79% D+ = 67–69% A- = 90–92% B = 83–86% C = 73–76% D = 63–66% B- = 80–82% C- = 70–72% D- = 60–62% F = \<60
