@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for the 5 page Disaster Mitigation
+  Plan Memo.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

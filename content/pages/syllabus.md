@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course meeting times, course description and
+  course goals and objectives.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -53,7 +55,7 @@ Class requirements include reading, ongoing assignments related to development o
 
 **Peer Review and Feedback:** In addition, team members will be asked to provide critical feedback on report drafts, and visual presentations. Much learning happens when we subject our work to review and evaluation by our peers. Many times we cannot see the flaws or problems in our thinking because we are much too close to the material. Peer review and feedback will happen during class time.
 
-**Reading Assignments:** All [readings]({{< baseurl >}}/pages/readings) will be posted on the class website. It is essential that all reading be completed by the due date and comments, questions and thoughts be offered in class. For this reason, readings have been kept to a minimum so that students can review and digest material prior to class. Pop quizzes help ensure that students stay current with the material offered in the class.
+**Reading Assignments:** All {{% resource_link bf705c26-bfd5-d8b9-20e5-deaaff8f3659 "readings" %}} will be posted on the class website. It is essential that all reading be completed by the due date and comments, questions and thoughts be offered in class. For this reason, readings have been kept to a minimum so that students can review and digest material prior to class. Pop quizzes help ensure that students stay current with the material offered in the class.
 
 Grading
 -------

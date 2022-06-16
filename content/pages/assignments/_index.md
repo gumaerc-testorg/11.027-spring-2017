@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details of the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,9 +30,9 @@ Disaster Mitigation Plans, Planners and Policies
 
 In preparation for international fieldwork, students will explore and analyze a mitigation plan in a U.S. city or town.
 
-[Effective memo writing examples (PDF - 1.15MB)]({{< baseurl >}}/resources/mit11_027js17_memo_writing)
+{{% resource_link 63c8908d-98c3-15fd-5d2e-3391561e2e97 "Effective memo writing examples (PDF - 1.15MB)" %}}
 
-_Deliverable:_ [5-page memo on a disaster mitigation plan]({{< baseurl >}}/pages/assignments/disaster-mitigation-plan-memo).
+_Deliverable:_ {{% resource_link b9979c3c-115a-256e-3b8c-7f1c7ccfae0f "5-page memo on a disaster mitigation plan" %}}.
 
 Field Research and Report - Detailed research, analysis and planning in priority areas on-the-ground results
 ------------------------------------------------------------------------------------------------------------
@@ -42,7 +43,7 @@ While specific research tasks will depend on the project and the client, tasks m
 
 Based on this detailed research, students will develop findings and recommendations for their final report.
 
-[Background Valparaíso Case]({{< baseurl >}}/pages/assignments/background-valparaiso-case)
+{{% resource_link b91fc58c-b5bd-d0c4-1425-6efeeddda48e "Background Valparaíso Case" %}}
 
 _Deliverable:_ 5–7 page Field Report
 

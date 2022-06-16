@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section provides an overview on the city of Valpara\xEDso, Chile,\
+  \ where the spring workshop for this course takes place."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
