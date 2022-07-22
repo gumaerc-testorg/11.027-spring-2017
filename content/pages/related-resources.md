@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a collection of links for further reading about
+  natural disasters and disaster planning and recovery.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: c32dd5f3-c254-2e8c-39aa-5c2700121ce5
 ---

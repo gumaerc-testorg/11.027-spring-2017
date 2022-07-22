@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: "This section provides an overview on the city of Valpara\xEDso, Chile,\
+  \ where the spring workshop for this course takes place."
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ced2de67-3fa5-8a60-9467-f835ed5e1cf9
 title: "Background Valpara\xEDso Case"
 uid: b91fc58c-b5bd-d0c4-1425-6efeeddda48e
