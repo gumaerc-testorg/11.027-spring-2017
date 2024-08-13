@@ -31,7 +31,7 @@ Measuring and Mapping Vulnerability
 
 Each of these Acts or Reforms tells part of the story of planning for and after disaster strikes in the United States. Choose three Acts/Reforms to research and be prepared to discuss and place on a timeline in class.
 
-- [U.S. Congressional Act of 1803](https://memory.loc.gov/cgi-bin/ampage?collId=llhb&fileName=021/llhb021.db&recNum=41)
+- [U.S. Congressional Act of 1803](https://www.congress.gov/bill/7th-congress/house-bill/11/1803/01/14/text)
 - [Flood Control Act of 1928](https://en.wikipedia.org/wiki/Flood_Control_Act_of_1928)
 - [Field Act](https://en.wikipedia.org/wiki/Field_Act) (in response to the 1933 Long Beach earthquake)
 - [Disaster Number 1934](https://sema.dps.mo.gov/maps_and_disasters/disasters/1934.php)
@@ -58,7 +58,7 @@ Perry, Ronald W. and E.L. Quarantelli, eds. *What is a Disaster?: New Answers to
 
 FEMA. [*Understanding Your Risks: Identifying Hazards and Estimating Losses*](https://webharvest.gov/peth04/20041031224101/fema.gov/fima/planning_toc3.shtm).
 
-Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 7: Hazard Mitigation." In [*Fundamentals of Emergency Management*](https://training.fema.gov/hiedu/aemrc/booksdownload/fem/). FEMA, 2006.
+Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 7: Hazard Mitigation." In [*Fundamentals of Emergency Management*](https://www.researchgate.net/publication/265494805_Fundamentals_of_Emergency_Management). FEMA, 2006.
 
 Torsell, Carolyn V. ["Federal Disaster Recovery Programs: Brief Summaries." (PDF)](http://nationalaglawcenter.org/wp-content/uploads/assets/crs/RL31734.pdf) *Congressional Research Service*. August 10, 2012.
 
@@ -74,7 +74,7 @@ FEMA. ["National Flood Insurance Program: Answers to Questions About the NFIP." 
 
 Schwab, James C., ed. "[Hazard Mitigation: Integrating Best Practices into Planning](https://planning-org-uploaded-media.s3.amazonaws.com/publication/book_paperback/PAS-Report-560.pdf)." American Planning Association, 2010.
 
-Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 6: Hazard, Vulnerability and Risk Analysis." In [*Fundamentals of Emergency Management*](https://training.fema.gov/hiedu/aemrc/booksdownload/fem/). FEMA, 2006.
+Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 6: Hazard, Vulnerability and Risk Analysis." In [*Fundamentals of Emergency Management*](https://www.researchgate.net/publication/265494805_Fundamentals_of_Emergency_Management). FEMA, 2006.
 
 FEMA. ["Hazard Mitigation Planning and Hazard Mitigation Grant Program; Interim Final Rule." (PDF)](https://www.fema.gov/pdf/help/fr02-4321.pdf) *Federal Register*. Vol. 67, No. 38. February 26, 2002.
 
@@ -158,7 +158,7 @@ Johnson, Laurie A., and Robert B. Olshansky. "[The Road to Recovery: Governing P
 
 Olshansky, Robert B., Laurie A. Johnson, et al. "[Longer View: Planning for the Rebuilding of New Orleans](http://www.tandfonline.com/doi/abs/10.1080/01944360802140835)." *Journal of the American Planning Association* 74, no. 3 (2008): 273–287.
 
-Passerini, Eve. "[Disasters as Agents of Social Change in Recovery and Reconstruction](https://doi.org/10.1061/(ASCE)1527-6988(2000)1:2(67))." *Natural Hazards Review* 1, no. 2 (2000): 67–72.
+Passerini, Eve. "[Disasters as Agents of Social Change in Recovery and Reconstruction](https://doi.org/10.1061/%28ASCE%291527-6988%282000)1:2(67))." *Natural Hazards Review* 1, no. 2 (2000): 67–72.
 
 Jha, Abhas K., Jennifer Duyne Barenstein, et al. [*Safer Homes, Stronger Communities: A Handbook for Reconstructing After Natural Disasters*](https://openknowledge.worldbank.org/handle/10986/2409). World Bank Publications, 2010.
 
