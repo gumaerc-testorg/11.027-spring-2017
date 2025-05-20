@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/63c8908d98c315fd5d2e3391561e2e97_MIT11_027JS17_Memo_Writing.pdf
+file: /courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/63c8908d98c315fd5d2e3391561e2e97_MIT11_027JS17_Memo_Writing.pdf
 file_size: 1211159
 file_type: application/pdf
 learning_resource_types:
